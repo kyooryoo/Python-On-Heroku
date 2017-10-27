@@ -18,5 +18,5 @@ def db(request):
 
     return render(request, 'db.html', {'greetings': greetings})
 
-def 30DayChallenge(request):
+def sampledata(request):
     return render(request, '30DayChallenge')
