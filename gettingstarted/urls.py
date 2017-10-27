@@ -13,5 +13,5 @@ urlpatterns = [
     url(r'^$', hello.views.index, name='index'),
     url(r'^db', hello.views.db, name='db'),
     url(r'^admin/', include(admin.site.urls)),
-    url(r'^30-Day-Challenge', hello.views.30-Day-Challenge, name='30-Day-Challenge'),
+    url(r'^30DayChallenge', hello.views.30DayChallenge, name='30DayChallenge'),
 ]
