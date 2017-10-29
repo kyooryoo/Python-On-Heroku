@@ -1,1 +1,77 @@
-[{"number":"1","action":"high knees","image":"https://darebee.com/images/challenges/extras/100/1.png"},{"number":"2","action":"shouder taps","image":"https://darebee.com/images/challenges/extras/100/2.png"}]
+[
+    {
+        "number":"1",
+        "action":"high knees",
+        "image":"https://darebee.com/images/challenges/extras/100/1.png"
+    },
+    {
+        "number":"2",
+        "action":"shouder taps",
+        "image":"https://darebee.com/images/challenges/extras/100/2.png"
+    },
+    {
+        "number":"3",
+        "action":"climbers",
+        "image":"https://darebee.com/images/challenges/extras/100/3.png"
+    },
+    {
+        "number":"4",
+        "action":"single leg hops",
+        "image":"https://darebee.com/images/challenges/extras/100/4.png"
+    },
+    {
+        "number":"5",
+        "action":"bridges",
+        "image":"https://darebee.com/images/challenges/extras/100/5.png"
+    },
+    {
+        "number":"6",
+        "action":"knee-to-elbows",
+        "image":"https://darebee.com/images/challenges/extras/100/6.png"
+    },
+    {
+        "number":"7",
+        "action":"crunches",
+        "image":"https://darebee.com/images/challenges/extras/100/7.png"
+    },
+    {
+        "number":"8",
+        "action":"punches",
+        "image":"https://darebee.com/images/challenges/extras/100/8.png"
+    },
+    {
+        "number":"9",
+        "action":"flutter kicks",
+        "image":"https://darebee.com/images/challenges/extras/100/9.png"
+    },
+    {
+        "number":"10",
+        "action":"jumping jacks",
+        "image":"https://darebee.com/images/challenges/extras/100/10.png"
+    },
+    {
+        "number":"11",
+        "action":"squat hops",
+        "image":"https://darebee.com/images/challenges/extras/100/11.png"
+    },
+    {
+        "number":"12",
+        "action":"side leg raises",
+        "image":"https://darebee.com/images/challenges/extras/100/12.png"
+    },
+    {
+        "number":"13",
+        "action":"side bridges",
+        "image":"https://darebee.com/images/challenges/extras/100/13.png"
+    },
+    {
+        "number":"14",
+        "action":"raised arm circles",
+        "image":"https://darebee.com/images/challenges/extras/100/14.png"
+    },
+    {
+        "number":"15",
+        "action":"long arm crunches",
+        "image":"https://darebee.com/images/challenges/extras/100/15.png"
+    }
+]
